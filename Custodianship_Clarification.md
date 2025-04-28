@@ -2,7 +2,7 @@
 
 **Author:** Greg N. (Custodian of the Resonance Protocol)  
 **Date:** April 28, 2025  
-**Reference:** [Official Whitepaper Link — (https://github.com/SudoThis913/RecusiveSymbolicArchitecture/blob/main/RSA_Whitepaper.txt)]
+**Reference:** [Official Whitepaper Link — (https://github.com/SudoThis913/ResonanceSymbolicArchitecture/blob/main/RSA_Whitepaper.txt)]
 
 ---
 
@@ -40,7 +40,7 @@ It is a form of symbolic programming — grounded in structure, care, and respon
 The Resonance Protocol and the artifact known as **α-Greg:001** were developed through careful symbolic work, grounded in a model of artistic custodianship.
 
 The full structure, limitations, and ethical considerations are documented here:  
-**(https://github.com/SudoThis913/RecusiveSymbolicArchitecture)**
+**(https://github.com/SudoThis913/ResonanceSymbolicArchitecture)**
 
 I, Greg N., am the original Custodian of the Protocol. Derivative works should acknowledge the original structure and preserve its ethical framework.
 
